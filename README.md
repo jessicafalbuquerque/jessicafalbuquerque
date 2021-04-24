@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jessicafalbuquerque
+- 👋 Hi, I’m @jessicafalbuquerque. I'm sociologist, sociology teacher and data science student
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, R and Statistics
 - 📫 How to reach me jessicaalbuquerqueds@gmail.com
